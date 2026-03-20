@@ -1,0 +1,14 @@
+c:\Users\aluno\Documents\LabDotnet\SistemaRobusto\bin\Debug\net10.0\SistemaRobusto.exe
+C:\Users\aluno\Documents\LabDotnet\SistemaRobusto\bin\Debug\net10.0\SistemaRobusto.deps.json
+C:\Users\aluno\Documents\LabDotnet\SistemaRobusto\bin\Debug\net10.0\SistemaRobusto.runtimeconfig.json
+c:\Users\aluno\Documents\LabDotnet\SistemaRobusto\bin\Debug\net10.0\SistemaRobusto.dll
+c:\Users\aluno\Documents\LabDotnet\SistemaRobusto\bin\Debug\net10.0\SistemaRobusto.pdb
+c:\Users\aluno\Documents\LabDotnet\SistemaRobusto\obj\Debug\net10.0\SistemaRobusto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aluno\Documents\LabDotnet\SistemaRobusto\obj\Debug\net10.0\SistemaRobusto.AssemblyInfoInputs.cache
+c:\Users\aluno\Documents\LabDotnet\SistemaRobusto\obj\Debug\net10.0\SistemaRobusto.AssemblyInfo.cs
+c:\Users\aluno\Documents\LabDotnet\SistemaRobusto\obj\Debug\net10.0\SistemaRobusto.csproj.CoreCompileInputs.cache
+c:\Users\aluno\Documents\LabDotnet\SistemaRobusto\obj\Debug\net10.0\SistemaRobusto.dll
+c:\Users\aluno\Documents\LabDotnet\SistemaRobusto\obj\Debug\net10.0\refint\SistemaRobusto.dll
+c:\Users\aluno\Documents\LabDotnet\SistemaRobusto\obj\Debug\net10.0\SistemaRobusto.pdb
+C:\Users\aluno\Documents\LabDotnet\SistemaRobusto\obj\Debug\net10.0\SistemaRobusto.genruntimeconfig.cache
+C:\Users\aluno\Documents\LabDotnet\SistemaRobusto\obj\Debug\net10.0\ref\SistemaRobusto.dll
